@@ -1,0 +1,25 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "Apple IPhone 14",
+			"capacity": 256,
+			"color": "black",
+			"price": 79990
+		},
+		{
+			"id": 2,
+			"title": "Apple IPhone 11",
+			"capacity": 128,
+			"color": "white",
+			"price": 40990
+		}
+	],
+
+	"users": [
+		{
+			"id": 1,
+			"name": "John"
+		}
+	]
+}
